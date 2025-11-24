@@ -1,2 +1,2 @@
-# Bachelor-s-thesis---Animation
-This is an animation of a park scene that I created for my Bachelor's thesis using 3ds Max.
+# Master-s-thesis---Animation
+This are models of a chair that I created for my Master's thesis using Blender and Autodesk Maya.
